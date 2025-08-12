@@ -1,9 +1,7 @@
 
-## Project info<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/95e4732f-a0ef-42de-bd56-4e2f9c7bb36c" />
+## Project info
 
 
-<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/46a4ea10-0b0b-49<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/922aafd4-234e-4c68-8999-f383d699f8a4" />
-07-8da0-f8fb2d744582" />
 Follow these steps:
 
 ```sh
